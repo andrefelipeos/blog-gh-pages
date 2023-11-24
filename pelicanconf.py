@@ -1,5 +1,5 @@
 AUTHOR = 'André Felipe'
-SITENAME = 'Meu Teste com Pelican'
+SITENAME = 'Blogue do André'
 SITEURL = ""
 
 PATH = "content"
